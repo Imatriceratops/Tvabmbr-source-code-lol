@@ -1,0 +1,63 @@
+{
+	"position": [
+		-350,
+		-410
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "coma",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				-1,
+				-10
+			],
+			"anim": "talk",
+			"idle_name": "coma talk",
+			"loop_name": "coma talk"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"anim": "yeah",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "coma yeah",
+			"idle_name": "coma yeah"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"anim": "ew",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "coma ew",
+			"idle_name": "coma ew"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"anim": "piss",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "coma piss",
+			"idle_name": "coma piss"
+		}
+	]
+}

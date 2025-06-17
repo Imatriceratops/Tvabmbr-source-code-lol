@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="playoma.png">
+<SubTexture name="comalol idle0000" x="0" y="0" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol idle0001" x="3902" y="2221" width="636" height="1101" frameX="-357" frameY="-179" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol idle0002" x="3902" y="2221" width="636" height="1101" frameX="-357" frameY="-179" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol idle0003" x="2555" y="2256" width="626" height="1118" frameX="-362" frameY="-161" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol idle0004" x="2555" y="2256" width="626" height="1118" frameX="-362" frameY="-161" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol idle0005" x="0" y="0" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol left0000" x="3051" y="3384" width="758" height="1040" frameX="-284" frameY="-240" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol left0001" x="2310" y="3384" width="741" height="1048" frameX="-290" frameY="-232" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol left0002" x="1584" y="3384" width="726" height="1057" frameX="-296" frameY="-223" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol up0000" x="1842" y="2256" width="713" height="1121" frameX="-323" frameY="-137" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol up0001" x="3902" y="1117" width="741" height="1104" frameX="-312" frameY="-154" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol up0002" x="820" y="3384" width="764" height="1097" frameX="-304" frameY="-161" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol down0000" x="0" y="4487" width="807" height="946" frameX="-284" frameY="-332" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol down0001" x="5455" y="1981" width="778" height="957" frameX="-298" frameY="-320" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol down0002" x="5455" y="1013" width="762" height="968" frameX="-308" frameY="-309" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol right0000" x="5455" y="0" width="784" height="1013" frameX="-269" frameY="-264" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol right0001" x="4701" y="0" width="754" height="1022" frameX="-286" frameY="-255" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comalol right0002" x="3809" y="3384" width="727" height="1033" frameX="-302" frameY="-244" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour hey0000" x="614" y="0" width="792" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour hey0001" x="0" y="3384" width="820" height="1103" frameX="-351" frameY="-177" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour hey0002" x="0" y="3384" width="820" height="1103" frameX="-351" frameY="-177" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour hey0003" x="3902" y="0" width="799" height="1117" frameX="-361" frameY="-162" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour hey0004" x="3902" y="0" width="799" height="1117" frameX="-361" frameY="-162" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour hey0005" x="614" y="0" width="792" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0000" x="1406" y="0" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0001" x="2020" y="0" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0002" x="0" y="1128" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0003" x="614" y="1128" width="647" height="1128" frameX="-333" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0004" x="1261" y="1128" width="638" height="1128" frameX="-342" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0005" x="1899" y="1128" width="621" height="1128" frameX="-359" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour tran0006" x="2634" y="0" width="654" height="1128" frameX="-326" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scared0000" x="1406" y="0" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scared0001" x="2634" y="1128" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scared0002" x="3288" y="0" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scared0003" x="3288" y="1128" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scared0004" x="0" y="2256" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scared0005" x="614" y="2256" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scary loop0000" x="614" y="2256" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="comapartfour scary loop0001" x="1228" y="2256" width="614" height="1128" frameX="-366" frameY="-151" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

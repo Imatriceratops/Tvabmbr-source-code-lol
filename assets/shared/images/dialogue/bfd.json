@@ -1,0 +1,203 @@
+{
+
+	"position": [
+	
+	40,
+	
+	150
+	
+	],
+	
+	"dialogue_pos": "right",
+	
+	"scale": 1.65,
+	
+	"image": "Boyfriend",
+	
+	"animations": [
+	
+	{
+	
+	"idle_offsets": [
+	
+	-10,
+	
+	0
+	
+	],
+	
+	"loop_offsets": [
+	
+	-10,
+	
+	0
+	
+	],
+	
+	"anim": "talk",
+	
+	"idle_name": "BF neutral0000",
+	
+	"loop_name": "BF neutral"
+	
+	},
+	
+	{
+	
+	"idle_offsets": [
+	
+	-8,
+	
+	-2
+	
+	],
+	
+	"anim": "excited",
+	
+	"loop_offsets": [
+	
+	-8,
+	
+	-2
+	
+	],
+	
+	"idle_name": "BF uwu0000",
+	
+	"loop_name": "BF uwu"
+	
+	},
+	
+	{
+	
+	"idle_offsets": [
+	
+	-10,
+	
+	0
+	
+	],
+	
+	"anim": "pissed",
+	
+	"loop_offsets": [
+	
+	-10,
+	
+	0
+	
+	],
+	
+	"idle_name": "BF angry0000",
+	
+	"loop_name": "BF angry"
+	
+	},
+	
+	{
+	
+	"idle_offsets": [
+	
+	-5,
+	
+	-21
+	
+	],
+	
+	"anim": "shocked",
+	
+	"loop_offsets": [
+	
+	-4,
+	
+	-21
+	
+	],
+	
+	"idle_name": "BF realization0000",
+	
+	"loop_name": "BF realization"
+	
+	},
+	
+	{
+	
+	"loop_offsets": [
+	
+	-23,
+	
+	10
+	
+	],
+	
+	"anim": "confused",
+	
+	"idle_offsets": [
+	
+	-21,
+	
+	9
+	
+	],
+	
+	"loop_name": "BF sad",
+	
+	"idle_name": "BF sad0000"
+	
+	},
+	
+	{
+	
+	"loop_offsets": [
+	
+	30,
+	
+	0
+	
+	],
+	
+	"anim": "q",
+	
+	"idle_offsets": [
+	
+	30,
+	
+	0
+	
+	],
+	
+	"loop_name": "BF q",
+	
+	"idle_name": "BF q"
+	
+	},
+	
+	{
+	
+	"loop_name": "BF mad",
+	
+	"idle_offsets": [
+	
+	0,
+	
+	0
+	
+	],
+	
+	"idle_name": "BF mad0002",
+	
+	"anim": "Mad",
+	
+	"loop_offsets": [
+	
+	0,
+	
+	0
+	
+	]
+	
+	}
+	
+	]
+	
+	}

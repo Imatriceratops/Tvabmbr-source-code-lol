@@ -1,0 +1,190 @@
+{
+	"camera_boyfriend": [
+		-100,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf wit a crown",
+		"gf": "waffle",
+		"dad": "playoma"
+	},
+	"boyfriend": [
+		870,
+		130
+	],
+	"girlfriend": [
+		-267,
+		113
+	],
+	"stageUI": "normal",
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": 67,
+			"y": 50,
+			"scale": [
+				1.14,
+				1.14
+			],
+			"image": "comasroomback",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 64,
+			"y": 45,
+			"scale": [
+				1.15,
+				1.15
+			],
+			"image": "comasroomfront",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 130,
+			"y": 64,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "Karaoke machine",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite3",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 10,
+					"anim": "idle",
+					"indices": [],
+					"name": "Idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 123,
+			"y": 94,
+			"scale": [
+				0.59,
+				0.59
+			],
+			"image": "Silly frens",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "frens",
+			"firstAnimation": "Idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 10,
+					"anim": "Idle",
+					"loop": true,
+					"name": "Silly frens Idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": 96,
+			"y": 66,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "Plushies",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite4",
+			"firstAnimation": "Idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 10,
+					"anim": "Idle",
+					"loop": true,
+					"name": "Plushies Idle"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		750,
+		-350
+	],
+	"opponent": [
+		255,
+		115
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		350,
+		50
+	]
+}

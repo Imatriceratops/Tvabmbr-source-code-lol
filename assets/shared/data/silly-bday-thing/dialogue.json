@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "cake",
+			"speed": 0.05,
+			"portrait": "coma",
+			"boxState": "normal",
+			"expression": "yeah",
+			"text": "Hai I'm testing a stage"
+		},
+		{
+			"sound": "cake",
+			"speed": 0.05,
+			"portrait": "coma",
+			"boxState": "normal",
+			"expression": "yeah",
+			"text": "My laptop is going to explode"
+		},
+		{
+			"sound": "cake",
+			"speed": 0.05,
+			"portrait": "coma",
+			"boxState": "normal",
+			"expression": "ew",
+			"text": "Maybe..."
+		},
+		{
+			"sound": "cake",
+			"speed": 0.05,
+			"portrait": "coma",
+			"boxState": "normal",
+			"expression": "yeah",
+			"text": "Ok bye see ya when the mod relases *fucking dissolves*"
+		}
+	]
+}

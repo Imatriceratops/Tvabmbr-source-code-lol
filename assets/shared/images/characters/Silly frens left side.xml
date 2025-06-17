@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Silly frens left side.png">
+<SubTexture name="Silly frens left side Idle0004" x="0" y="0" width="1403" height="919" frameX="0" frameY="-480" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens left side Idle0003" x="0" y="919" width="1403" height="912" frameX="0" frameY="-487" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens left side Idle0002" x="1403" y="919" width="1403" height="912" frameX="0" frameY="-487" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens left side Idle0001" x="0" y="1831" width="1403" height="912" frameX="0" frameY="-488" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens left side Idle0000" x="1403" y="0" width="1403" height="919" frameX="0" frameY="-481" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Silly frens.png">
+<SubTexture name="Silly frens Idle0004" x="0" y="2030" width="1453" height="911" frameX="-1100" frameY="-487" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens Idle0003" x="2293" y="0" width="1453" height="915" frameX="-1100" frameY="-483" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens Idle0002" x="0" y="1113" width="1433" height="917" frameX="-1120" frameY="-481" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens Idle0001" x="2293" y="915" width="1453" height="915" frameX="-1100" frameY="-483" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="Silly frens Idle0000" x="0" y="0" width="2293" height="1113" frameX="-260" frameY="-286" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>

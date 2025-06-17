@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coma.png">
+<SubTexture name="coma talk0000" x="0" y="0" width="531" height="909" frameX="-364" frameY="-220" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="coma ew0000" x="531" y="0" width="531" height="909" frameX="-364" frameY="-220" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="coma piss0000" x="1062" y="0" width="531" height="909" frameX="-364" frameY="-220" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="coma yeah0000" x="1593" y="0" width="531" height="909" frameX="-364" frameY="-220" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

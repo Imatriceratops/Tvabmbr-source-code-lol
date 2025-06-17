@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Karaoke machine.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0004" x="0" y="0" width="546" height="684" frameX="-833" frameY="-511" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Idle0003" x="1646" y="0" width="498" height="634" frameX="-833" frameY="-561" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Idle0002" x="546" y="0" width="540" height="634" frameX="-833" frameY="-561" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Idle0001" x="0" y="684" width="538" height="598" frameX="-791" frameY="-597" frameWidth="2560" frameHeight="1400"/>
+	<SubTexture name="Idle0000" x="1086" y="0" width="560" height="593" frameX="-770" frameY="-602" frameWidth="2560" frameHeight="1400"/>
+</TextureAtlas>

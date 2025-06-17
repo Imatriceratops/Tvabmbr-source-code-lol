@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				288,
+				319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "comalol idle"
+		},
+		{
+			"offsets": [
+				305,
+				318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "comalol left"
+		},
+		{
+			"offsets": [
+				259,
+				318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "comalol right"
+		},
+		{
+			"offsets": [
+				286,
+				324
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "comalol down"
+		},
+		{
+			"offsets": [
+				292,
+				311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "comalol up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				288,
+				319
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "comapartfour hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				288,
+				319
+			],
+			"anim": "tran",
+			"fps": 15,
+			"name": "comapartfour tran",
+			"indices": []
+		},
+		{
+			"offsets": [
+				288,
+				319
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "scared",
+			"indices": [],
+			"name": "comapartfour scared"
+		},
+		{
+			"offsets": [
+				288,
+				319
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "scaredLoop",
+			"indices": [],
+			"name": "comapartfour scary loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madoma",
+	"position": [
+		-200,
+		90
+	],
+	"healthicon": "mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		176,
+		229
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

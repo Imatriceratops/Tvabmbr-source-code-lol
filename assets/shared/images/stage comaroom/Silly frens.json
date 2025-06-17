@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [-6, -26],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Silly frens Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Silly frens",
+	"position": [0, 350],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [49, 176, 229],
+	"camera_position": [100, -40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

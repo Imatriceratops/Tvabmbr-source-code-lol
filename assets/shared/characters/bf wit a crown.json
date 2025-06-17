@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-42, 3],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf wit crown idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-44, -6],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bf wit crown yay",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-41, 6],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf wit crown down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-41, 5],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf wit crown left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-42, 5],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf wit crown right miss",
+			"indices": []
+		},
+		{
+			"offsets": [-40, 6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf wit crown up miss"
+		},
+		{
+			"offsets": [-39, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf wit crown left0"
+		},
+		{
+			"offsets": [-47, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf wit crown right0"
+		},
+		{
+			"offsets": [-58, 12],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf wit crown down0"
+		},
+		{
+			"loop": false,
+			"offsets": [-52, 9],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf wit crown up0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bf wit crown",
+	"position": [-130, 210],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [-100, 40],
+	"sing_duration": 6,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

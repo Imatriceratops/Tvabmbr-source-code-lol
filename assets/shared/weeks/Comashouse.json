@@ -1,0 +1,54 @@
+{
+	"storyName": "The begining of a Wild Ride",
+	"difficulties": "cookie",
+	"hideFreeplay": false,
+	"weekBackground": "silly1",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"silly bday thing",
+			"comaandbf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"soft breaded",
+			"comaandbf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blazin rockin rollout",
+			"comaandbf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"memories restored",
+			"lily",
+			[
+				255,
+				73,
+				0
+			]
+		]
+	],
+	"weekName": "eee",
+	"hiddenUntilUnlocked": false
+}
